@@ -1,0 +1,5 @@
+this is fifth file added to local 
+it push it to repos
+1.git add .
+2.git commit -m "adding 5.txt"
+3.git push origin master
