@@ -1,0 +1,6 @@
+hello this is 9th file to add it to the respository.
+1.git add .
+2.git commit -m "messaage"
+3.git push origin master
+
+
